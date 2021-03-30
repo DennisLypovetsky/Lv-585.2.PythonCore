@@ -1,3 +1,4 @@
+
 number_a = int(input('Enter number a = '))
 number_b = int(input('Enter number b = '))
 
