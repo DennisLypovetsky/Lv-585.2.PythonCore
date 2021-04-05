@@ -11,8 +11,8 @@ b = int(input('Enter number b: '))
 # b = 50
 
 if a > b:
-    print('Number a more then number b')
+        print(f'Number {a} more then number {b}')
 elif a < b:
-    print('Number b more then number a')
+    print(f'Number {b} more then number {a}')
 elif a == b:
     print('Numbers are equal')
